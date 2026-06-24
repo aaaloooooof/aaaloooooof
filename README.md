@@ -1,4 +1,4 @@
-# Hi, I'm Zhuanz
+# Hi, I'm Aloof
 
 I build education AI prototypes, learning product systems, and small tools that make complex ideas easier to test, explain, and ship.
 
